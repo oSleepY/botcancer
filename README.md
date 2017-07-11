@@ -1,4 +1,4 @@
-# OhGodMusicBot
+# memes
 A v10 Discord.JS music bot in 100 lines or less
 
 ## Installation (Windows)
@@ -49,7 +49,7 @@ Extract the files to the root of your harddrive, and rename the folder to `ffmpe
 
 1. add `;c:\ffmpeg\bin` to the end of the field.
 
-### Download and Install OhGodMusicBot
+### Download and Install memes
 
 Next you'll need to download the bot and configure it.
 Download the master branch and put the unzipped files in a new folder on your computer.
